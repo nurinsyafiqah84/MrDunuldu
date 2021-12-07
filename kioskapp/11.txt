@@ -1,0 +1,30 @@
+                MC-DUNULDU RECEIPT
+------------------------------------------------
+                  RECEIPT    
+------------------------------------------------
+Qty	Item			Price(RM)
+------------------------------------------------
+2	McChicken		RM16.20
+1	Ayam Goreng McD Spicy (2pcs)		RM11.90
+1	Ayam Goreng McD Spicy (5pcs)	RM30.20
+1	Spicy Chicken McDeluxe		RM11.90
+2	Chicken McNuggets (6pcs)	RM18.80
+2	Double Cheeseburger		RM18.90
+3	Big Mac		RM31.20
+3	Filet-O-Fish		RM25.35
+3	McChicken Meal (Medium)	RM39.60
+3	Chicken McNuggets 6pcs Meal (Medium)	RM39.60
+1	Filet-O-Fish Meal (Medium)	RM13.00
+3	Strawberry Sundae	RM12.45
+1	Chocolate Sundae	RM4.15
+------------------------------------------------
+Order mode: Dine In
+------------------------------------------------
+TOTAL:			      273.25
+------------------------------------------------
+paid with:
+**** **** **** 5082
+TRANSACTION STATUS: SUCCESSFULL
+------------------------------------------------
+------------------------------------------------
+                    THANK YOU         

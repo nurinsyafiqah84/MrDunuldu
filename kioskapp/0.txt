@@ -1,0 +1,25 @@
+                MC-DUNULDU RECEIPT
+------------------------------------------------
+                  RECEIPT    
+------------------------------------------------
+Qty	Item			Price(RM)
+------------------------------------------------
+
+1. Number Item Product = 1
+  Name product = McChicken	
+  Quantity = 1
+  Price = RM8.10
+1. Number Item Product = 8
+  Name product = Filet-O-Fish	
+  Quantity = 1
+  Price = RM8.45------------------------------------------------
+Order mode: Dine In
+------------------------------------------------
+TOTAL:			      16.55
+------------------------------------------------
+paid with:
+**** **** **** 9662
+TRANSACTION STATUS: SUCCESSFULL
+------------------------------------------------
+------------------------------------------------
+                    THANK YOU         
